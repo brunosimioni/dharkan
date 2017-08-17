@@ -1,6 +1,7 @@
 # dharkan
 Apache Kafka + Apache Flink + Complex Event Processing
-Heavy influenced by this series: http://bytefish.de/blog/apache_flink_series_1/
+
+Heavly influenced by this series: http://bytefish.de/blog/apache_flink_series_1/
 
 
 `dharkan-model`: shared model
